@@ -1,6 +1,6 @@
 # GRAT/CRAT AI Pipeline
 
-**My contribution.** This is my fork of [AlexanderEverill/GRAT_CRAT_AI_Pipeline](https://github.com/AlexanderEverill/GRAT_CRAT_AI_Pipeline), a two-person group project for the Generative AI module of my MSc Financial Technology at the University of Warwick, built on a task from OpenAI's GDPval benchmark. I built the AI side: the deterministic trust-calculation layer that the LLM drafts from (45 unit tests), and the audit of the output that caught an estate-tax error overstating one trust's benefit by about $4.4M. My teammate built the retrieval (RAG) side.
+**My contribution.** This is my fork of [AlexanderEverill/GRAT_CRAT_AI_Pipeline](https://github.com/AlexanderEverill/GRAT_CRAT_AI_Pipeline), a group project for the Generative AI module of my MSc Financial Technology at the University of Warwick, built on a task from OpenAI's GDPval benchmark. I built the AI side: the deterministic trust-calculation layer that the LLM drafts from (45 unit tests), and the audit of the output that caught an estate-tax error overstating one trust's benefit by about $4.4M. My teammate built the retrieval (RAG) side.
 
 An automated pipeline that produces a client-facing PDF (≤ 12 pages) presenting and comparing a **Grantor Retained Annuity Trust (GRAT)** and a **Charitable Remainder Annuity Trust (CRAT)** for estate-planning purposes.
 
